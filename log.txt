@@ -1,0 +1,7 @@
+2020-08-21 17:15:34,223 - __main__ - INFO - Start print log
+2020-08-21 17:15:34,223 - __main__ - WARNING - Something maybe fail.
+2020-08-21 17:17:00,583 - __main__ - INFO - Start print log
+2020-08-21 17:17:00,583 - __main__ - WARNING - Something maybe fail.
+Start print log
+Do something
+Something maybe fail.

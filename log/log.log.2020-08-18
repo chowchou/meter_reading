@@ -1,0 +1,11 @@
+[2020-08-18 09:25:47] [ERROR] <ClearCommError failed (OSError(9, '句柄无效。', None, 6))>
+[2020-08-18 09:25:47] [ERROR] <F00 Fail open serial>
+[2020-08-18 09:26:43] [ERROR] <ClearCommError failed (OSError(9, '句柄无效。', None, 6))>
+[2020-08-18 09:26:43] [ERROR] <F00 Fail open serial>
+[2020-08-18 09:30:35] [ERROR] <请先选择指令单号>
+[2020-08-18 09:30:41] [ERROR] <ClearCommError failed (OSError(9, '句柄无效。', None, 6))>
+[2020-08-18 09:30:41] [ERROR] <F00 Fail open serial>
+[2020-08-18 09:33:13] [ERROR] <请先选择指令单号>
+[2020-08-18 10:02:15] [ERROR] <请先选择指令单号>
+[2020-08-18 18:00:11] [ERROR] <'Start_code' object has no attribute 'code_nums'>
+[2020-08-18 18:06:38] [ERROR] <'Start_code' object has no attribute 'rev_data'>

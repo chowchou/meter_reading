@@ -1,0 +1,5 @@
+[2020-10-14 18:29:16] [ERROR] <could not open port 'COM99': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-14 18:29:16] [ERROR] <PLC通讯线程数据处理错误，请联系管理人员>
+[2020-10-14 18:30:07] [ERROR] <could not open port 'COM99': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-14 18:30:07] [ERROR] <PLC通讯线程数据处理错误，请联系管理人员>
+[2020-10-14 18:30:14] [ERROR] <could not open port 'COM98': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>

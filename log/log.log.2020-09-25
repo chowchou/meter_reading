@@ -1,0 +1,5 @@
+[2020-09-25 09:00:51] [ERROR] <name 'dict1' is not defined>
+[2020-09-25 09:05:13] [ERROR] <请先选择指令单号>
+[2020-09-25 09:05:22] [ERROR] <name 'dict1' is not defined>
+[2020-09-25 09:07:54] [ERROR] <'Led_code' object has no attribute 'dict1'>
+[2020-09-25 09:10:54] [ERROR] <'Led_code' object has no attribute 'dict1'>

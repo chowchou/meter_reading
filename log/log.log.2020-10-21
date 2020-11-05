@@ -1,0 +1,2 @@
+[2020-10-21 15:25:49] [ERROR] <条码/扫码线程异常，请联系管理人员>
+[2020-10-21 15:27:35] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>

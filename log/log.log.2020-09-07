@@ -1,0 +1,15 @@
+[2020-09-07 14:21:21] [ERROR] <请先选择指令单号>
+[2020-09-07 14:25:42] [ERROR] <请先选择指令单号>
+[2020-09-07 14:26:19] [ERROR] <请先选择指令单号>
+[2020-09-07 14:29:51] [ERROR] <请先选择指令单号>
+[2020-09-07 14:30:46] [ERROR] <请先选择指令单号>
+[2020-09-07 14:31:31] [ERROR] <请先选择指令单号>
+[2020-09-07 14:52:35] [ERROR] <unicode strings are not supported, please encode to bytes: 'a111111'>
+[2020-09-07 14:56:52] [ERROR] <could not open port 'COM3': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-09-07 14:56:57] [ERROR] <could not open port 'COM3': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-09-07 14:57:04] [ERROR] <could not open port 'COM3': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-09-07 14:57:06] [ERROR] <could not open port 'COM3': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-09-07 15:05:06] [ERROR] <'list' object has no attribute 'encode'>
+[2020-09-07 15:14:25] [ERROR] <'str' object does not support item assignment>
+[2020-09-07 15:17:56] [ERROR] <list assignment index out of range>
+[2020-09-07 15:21:20] [ERROR] <'Main_ui' object has no attribute 'plc_num'>

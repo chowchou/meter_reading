@@ -1,0 +1,223 @@
+[2020-08-15 09:36:52] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 09:37:21] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:42:53] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:44:00] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:44:32] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:45:24] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:45:37] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:45:44] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:45:49] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:48:54] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:48:57] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 14:48:57] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:48:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 14:48:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 14:49:45] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:49:53] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:50:57] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:52:40] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:56:02] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:56:20] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:57:48] [ERROR] <请先选择指令单号>
+[2020-08-15 14:57:49] [ERROR] <请先选择指令单号>
+[2020-08-15 14:57:52] [ERROR] <请先选择指令单号>
+[2020-08-15 14:57:57] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 14:58:07] [ERROR] <2号工作端口没有开启，请确认>
+[2020-08-15 15:01:54] [ERROR] <请先选择指令单号>
+[2020-08-15 15:13:25] [ERROR] <请先选择指令单号>
+[2020-08-15 15:14:12] [ERROR] <请先选择指令单号>
+[2020-08-15 15:14:29] [ERROR] <请先选择指令单号>
+[2020-08-15 15:20:13] [ERROR] <请先选择指令单号>
+[2020-08-15 16:02:19] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:02:19] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:02:19] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:04:01] [ERROR] <请先选择指令单号>
+[2020-08-15 16:04:07] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:04:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:04:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:11:08] [ERROR] <请先选择指令单号>
+[2020-08-15 16:17:19] [ERROR] <请先选择指令单号>
+[2020-08-15 16:28:18] [ERROR] <local variable 'ser' referenced before assignment>
+[2020-08-15 16:28:18] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:28:18] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:29:14] [ERROR] <请先选择指令单号>
+[2020-08-15 16:29:18] [ERROR] <'Bar_code' object has no attribute 'ser'>
+[2020-08-15 16:29:18] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:29:18] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:31:26] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:35:57] [ERROR] <'Bar_code' object has no attribute 'ser'>
+[2020-08-15 16:35:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:35:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:41:15] [ERROR] <'str' object has no attribute 'device'>
+[2020-08-15 16:41:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:41:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:42:34] [ERROR] <'str' object has no attribute 'device'>
+[2020-08-15 16:42:34] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:42:34] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:54:57] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:54:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:54:57] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:56:21] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:56:21] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:58] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:58:58] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:58] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:59] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:58:59] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:59] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:59] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:58:59] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:58:59] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:00] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:00] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:00] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:00] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:00] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:00] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:01] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:02] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:04] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:05] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:06] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:06] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:06] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:06] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:06] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:06] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:07] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:08] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:09] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:13] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:13] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:13] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:14] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:14] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:14] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:15] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:15] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:15] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:16] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 16:59:16] [ERROR] <F00 Fail open serial>
+[2020-08-15 16:59:16] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:17] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:17] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:17] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:21] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:21] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:21] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:22] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:22] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:22] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:23] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:23] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:23] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:24] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:24] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:24] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:25] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:25] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:25] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:25] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:25] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:25] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:26] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:26] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:26] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:26] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:26] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:26] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:27] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:28] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:28] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:28] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:01:28] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:01:28] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:05:42] [ERROR] <could not open port 'COM31': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-08-15 17:05:42] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:05:42] [ERROR] <F00 Fail open serial>
+[2020-08-15 17:25:27] [ERROR] <请先选择指令单号>
+[2020-08-15 17:25:57] [ERROR] <请先选择指令单号>
+[2020-08-15 17:37:05] [ERROR] <请先选择指令单号>

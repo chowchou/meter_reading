@@ -1,0 +1,56 @@
+[2020-10-29 10:41:49] [ERROR] <请先选择指令单号>
+[2020-10-29 11:37:46] [ERROR] <HTTPConnectionPool(host='com3', port=80): Max retries exceeded with url: /api/admin/lqkjsmpd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002120E983438>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))>
+[2020-10-29 11:37:46] [ERROR] <订单信息获取失败，请联系管理人员>
+[2020-10-29 11:38:33] [ERROR] <HTTPConnectionPool(host='192.168.2.175', port=80): Max retries exceeded with url: /api/admin/lqkjsmpd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B6937B8CC0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))>
+[2020-10-29 11:38:33] [ERROR] <订单信息获取失败，请联系管理人员>
+[2020-10-29 16:19:52] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:22:42] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:27:01] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:30:21] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:34:22] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:36:07] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:39:18] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:40:35] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:49:22] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:52:22] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:52:36] [ERROR] <条码/扫码异常，请检测>
+[2020-10-29 16:55:09] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:57:07] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:59:29] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 16:59:56] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:02:33] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:04:38] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:07:48] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:08:33] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:10:46] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:12:35] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:15:49] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:19:03] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:22:40] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:24:35] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:25:55] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:26:57] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:30:17] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:32:27] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:33:31] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:35:39] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:37:41] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:38:55] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:40:10] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:41:48] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:43:19] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:44:40] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:46:32] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:48:25] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:49:56] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:53:00] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:53:25] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:56:19] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 17:58:34] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:00:03] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:03:34] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:07:31] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:07:48] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:10:24] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>
+[2020-10-29 18:11:04] [ERROR] <请先选择指令单号>
+[2020-10-29 18:11:22] [ERROR] <could not open port 'COM11': FileNotFoundError(2, '系统找不到指定的文件。', None, 2)>

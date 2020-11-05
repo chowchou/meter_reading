@@ -1,0 +1,5 @@
+[2020-09-14 15:32:28] [ERROR] <'gbk' codec can't decode byte 0xff in position 27: illegal multibyte sequence>
+[2020-09-14 16:41:30] [ERROR] <HTTPConnectionPool(host='192.168.2.174', port=80): Max retries exceeded with url: /api/admin/lqkjsmpd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F0FD1C4E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))>
+[2020-09-14 16:41:30] [ERROR] <订单信息获取失败，请联系管理人员>
+[2020-09-14 16:44:00] [ERROR] <HTTPConnectionPool(host='192.168.2.174', port=80): Max retries exceeded with url: /api/admin/lqkjsmpd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CA5AD442E8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))>
+[2020-09-14 16:44:00] [ERROR] <订单信息获取失败，请联系管理人员>

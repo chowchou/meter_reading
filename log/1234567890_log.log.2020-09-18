@@ -1,0 +1,2 @@
+[2020-09-18 17:56:02] [ERROR] could not open port 'COM15': PermissionError(13, '拒绝访问。', None, 5)
+[2020-09-18 17:56:02] [ERROR] could not open port 'COM15': PermissionError(13, '拒绝访问。', None, 5)

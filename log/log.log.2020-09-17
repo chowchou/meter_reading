@@ -1,0 +1,4 @@
+[2020-09-17 13:06:00] [ERROR] <请先选择指令单号>
+[2020-09-17 13:07:05] [ERROR] <could not open port 'COM3': PermissionError(13, '拒绝访问。', None, 5)>
+[2020-09-17 18:26:07] [ERROR] <ClearCommError failed (OSError(22, '函数不正确。', None, 1))>
+[2020-09-17 18:26:07] [ERROR] <ClearCommError failed (OSError(22, '函数不正确。', None, 1))>
